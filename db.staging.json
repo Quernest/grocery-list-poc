@@ -1,0 +1,30 @@
+{
+  "groceries": [
+    { "id": "1", "title": "Bananas", "amount": 6, "bought": true },
+    { "id": "2", "title": "Whole Milk", "amount": 6, "bought": true },
+    { "id": "3", "title": "Brown Eggs", "amount": 12, "bought": true },
+    { "id": "4", "title": "Chicken Breast (kg)", "amount": 1.2, "bought": true },
+    { "id": "5", "title": "Broccoli Head", "amount": 2, "bought": true },
+    { "id": "6", "title": "Whole Wheat Bread", "amount": 1, "bought": true },
+    { "id": "7", "title": "Greek Yogurt (cups)", "amount": 4, "bought": true },
+    { "id": "8", "title": "Apples", "amount": 5, "bought": true },
+    { "id": "9", "title": "Orange Juice (L)", "amount": 1, "bought": true },
+    { "id": "10", "title": "Canned Tuna", "amount": 3, "bought": false },
+    { "id": "11", "title": "Spinach Bag", "amount": 1, "bought": false },
+    { "id": "12", "title": "Frozen Peas (kg)", "amount": 0.5, "bought": false },
+    { "id": "13", "title": "Tomatoes", "amount": 6, "bought": false },
+    { "id": "14", "title": "Cheddar Cheese (g)", "amount": 250, "bought": false },
+    { "id": "15", "title": "Avocados", "amount": 2, "bought": true },
+    { "id": "16", "title": "Almond Milk (L)", "amount": 1, "bought": true },
+    { "id": "17", "title": "Rice (kg)", "amount": 1, "bought": true },
+    { "id": "18", "title": "Olive Oil (ml)", "amount": 500, "bought": true },
+    { "id": "19", "title": "Ground Beef (kg)", "amount": 0.7, "bought": true },
+    { "id": "20", "title": "Lettuce Head", "amount": 1, "bought": false },
+    { "id": "21", "title": "Carrots", "amount": 7, "bought": false },
+    { "id": "22", "title": "Peanut Butter (g)", "amount": 350, "bought": false },
+    { "id": "23", "title": "Strawberries (box)", "amount": 1, "bought": false },
+    { "id": "24", "title": "Oats (g)", "amount": 500, "bought": false },
+    { "id": "25", "title": "Cucumber", "amount": 2, "bought": false },
+    { "id": "26", "title": "Eggplant", "amount": 1, "bought": false }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "groceries": [
+    {
+      "id": "101",
+      "title": "Sourdough Bread",
+      "amount": 1,
+      "bought": true
+    },
+    {
+      "id": "102",
+      "title": "Sunflower Oil (L)",
+      "amount": 1,
+      "bought": true
+    },
+    {
+      "id": "103",
+      "title": "Lemons",
+      "amount": 3,
+      "bought": true
+    },
+    {
+      "id": "104",
+      "title": "Garlic Bulbs",
+      "amount": 5,
+      "bought": true
+    },
+    {
+      "id": "105",
+      "title": "Ginger Root (g)",
+      "amount": 100,
+      "bought": true
+    },
+    {
+      "title": "Honey (g)",
+      "amount": 250,
+      "bought": false,
+      "id": "106"
+    },
+    {
+      "id": "107",
+      "title": "Coconut Milk (cans)",
+      "amount": 2,
+      "bought": false
+    },
+    {
+      "id": "108",
+      "title": "Basmati Rice (kg)",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "109",
+      "title": "Ice Cream (tubs)",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "110",
+      "title": "Cereal Box",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "111",
+      "title": "Green Beans",
+      "amount": 0.5,
+      "bought": false
+    },
+    {
+      "id": "112",
+      "title": "Red Bell Pepper",
+      "amount": 2,
+      "bought": false
+    },
+    {
+      "id": "113",
+      "title": "Onions",
+      "amount": 4,
+      "bought": false
+    },
+    {
+      "id": "114",
+      "title": "Maple Syrup (ml)",
+      "amount": 250,
+      "bought": false
+    },
+    {
+      "id": "115",
+      "title": "Sweet Potatoes",
+      "amount": 3,
+      "bought": false
+    },
+    {
+      "id": "116",
+      "title": "Salmon Fillet (kg)",
+      "amount": 0.6,
+      "bought": false
+    },
+    {
+      "id": "117",
+      "title": "Mayonnaise",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "118",
+      "title": "Pickles Jar",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "119",
+      "title": "Salsa",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "120",
+      "title": "Tortillas (pack)",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "121",
+      "title": "Cottage Cheese",
+      "amount": 1,
+      "bought": false
+    },
+    {
+      "id": "122",
+      "title": "Applesauce (cups)",
+      "amount": 4,
+      "bought": false
+    },
+    {
+      "id": "123",
+      "title": "Black Beans (cans)",
+      "amount": 2,
+      "bought": false
+    },
+    {
+      "id": "124",
+      "title": "Green Tea (bags)",
+      "amount": 20,
+      "bought": false
+    }
+  ]
+}
