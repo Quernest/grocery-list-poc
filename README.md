@@ -35,3 +35,8 @@ This is a proof of concept (POC) created to fulfill a test assignment
 - React Query with JSON Server mock API  
 - Features: view, add, edit, delete items; set amount; mark bought  
 - Supports staging (port 3001) and production (port 3000) APIs via env variable
+
+### Demo
+
+https://github.com/user-attachments/assets/4a68267e-05c8-4fd0-a2a3-49ceec0b44bb
+
