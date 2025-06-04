@@ -13,13 +13,13 @@ interface FormValues extends Omit<GroceryItemType, "amount"> {
   amount: string;
 }
 
-export function useGroceryItemForm(groceryId?: string) {
+export function useGroceryItemForm(groceryId: string) {
   const isCreateMode = groceryId === "new";
   const isEditMode = !isCreateMode;
   const router = useRouter();
 
   const { data: item, isLoading: isItemLoading } = useGetGroceryById(
-    isEditMode ? groceryId : undefined
+    isEditMode ? groceryId : ''
   );
   const { mutateAsync: addGrocery, isPending: isAdding } = useAddGrocery();
   const { mutateAsync: updateGrocery, isPending: isUpdating } =

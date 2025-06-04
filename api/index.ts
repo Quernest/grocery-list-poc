@@ -9,7 +9,7 @@ export const getGroceries = async (): Promise<GroceryItem[]> => {
   return res.data;
 };
 
-export const getGroceryById = async (id?: string) => {
+export const getGroceryById = async (id: string) => {
   if (!id) throw new Error("ID is missed");
   const res = await axios.get(`${BASE_URL}/${id}`);
   return res.data;

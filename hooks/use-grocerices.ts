@@ -56,7 +56,7 @@ export const useDeleteGrocery = () => {
   });
 };
 
-export const useGetGroceryById = (id?: string) => {
+export const useGetGroceryById = (id: string) => {
   return useQuery({
     queryKey: ["groceries", id],
     queryFn: () => api.getGroceryById(id),
