@@ -20,7 +20,7 @@ export default function RootLayout() {
     <GestureHandlerRootView>
       <GluestackUIProvider mode="light">
         <ReactQueryProvider>
-          <Stack initialRouteName="test">
+          <Stack>
             <Stack.Screen name="index" options={{ headerShown: false }} />
             <Stack.Screen
               name="[groceryId]"

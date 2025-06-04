@@ -1,8 +1,7 @@
 import { GroceryItem } from "@/types"
-import { API_URL } from "@env"
 import axios from "axios"
 
-const BASE_URL = `${API_URL}/groceries`;
+const BASE_URL = `${process.env.EXPO_PUBLIC_API_URL}/groceries`;
 
 export const getGroceries = async (): Promise<GroceryItem[]> => {
   const res = await axios.get(BASE_URL);

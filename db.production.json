@@ -7,10 +7,10 @@
       "bought": true
     },
     {
-      "id": "102",
       "title": "Sunflower Oil (L)",
       "amount": 1,
-      "bought": true
+      "bought": true,
+      "id": "102"
     },
     {
       "id": "103",
