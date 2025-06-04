@@ -1,7 +1,7 @@
 import { FloatingAddButton } from "@/components/floating-add-button"
 import GroceryList from "@/components/grocery-list"
 import { Box } from "@/components/ui/box"
-import { SafeAreaView } from "react-native"
+import { SafeAreaView } from "react-native-safe-area-context"
 
 export default function IndexScreen() {
   return (
